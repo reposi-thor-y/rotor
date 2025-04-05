@@ -1,1 +1,1 @@
-# rotor
+A small update to the classic rotor, as I remember it from the Solaris screensaver collections around the year 2000. Many were the nights where we should make clever lines of codes, but instead sat looking at this instead.
